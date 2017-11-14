@@ -1,0 +1,1 @@
+location.href="https://play.google.com/store"
